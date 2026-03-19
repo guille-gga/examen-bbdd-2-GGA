@@ -1,0 +1,1 @@
+coches.db < schema.sql;
