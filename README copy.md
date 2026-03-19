@@ -87,6 +87,11 @@ Crea un `join-2.sql` que muestre los vehiculos de la cadena con la siguiente inf
 4. ¿Que diferencias hay entre MySQL y PostgreSQL?
 5. Explica el concepto de transacción, ACID y como se relacionan ambos.
 
+
+
+
+
+
 ## Extras
 
 Solo puedes realizar una tarea extra como máximo.
