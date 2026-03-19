@@ -1,9 +1,9 @@
 FROM mysql:8.0-debian
 
-ENV MYSQL_ROOT_PASSWORD=pppaaasss
+ENV MYSQL_ROOT_PASSWORD=1234
 ENV MYSQL_DATABASE=cambiado
-ENV MYSQL_USER=uuussseeerrr
-ENV MYSQL_PASSWORD=pppaaasss
+ENV MYSQL_USER=PrettyBoy
+ENV MYSQL_PASSWORD=1234
 
 RUN apt-get update && apt-get install -y \
     python3 python3-pip && \
