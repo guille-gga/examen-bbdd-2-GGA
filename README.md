@@ -16,6 +16,8 @@ SQLite es mas rapido porque corre en local
 
 4. ¿Que diferencias hay entre MySQL y PostgreSQL?
 
+PostgreSQL es sql pero con mas contenido, mas grande y con mas opciones.
+
 
 5. Explica el concepto de transacción, ACID y como se relacionan ambos.
 
